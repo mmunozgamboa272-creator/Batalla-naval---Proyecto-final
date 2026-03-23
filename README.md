@@ -1,2 +1,2 @@
 # Batalla-naval---Proyecto-final
-Realizaremos un batalla naval utilizando temas vistos en clase, tales como programación orientada a objetos, y en caso de necesitarlo utilizaremos una IA como GitHub Copilot, entendiendo los conceptos y la dinámica
+Realizaremos un batalla naval utilizando temas vistos en clase, tales como programación orientada a objetos, y en caso de necesitarlo utilizaremos una IA como GitHub Copilot, entendiendo los conceptos y las dinámicas. En cuanto a programación orientada a objetos utilizaremos conceptos como: clases, encapsulación (conceptos vistos en clase) y otros como: métodos, reutilización y enums. 
