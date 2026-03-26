@@ -11,6 +11,7 @@ Realizaremos un juego de Batalla Naval utilizando temas vistos en clase, tales c
 ## Integrantes del Grupo
 
 - Mariana Muñoz
+- Juan Cocunubo
 - Valeria Ascanio
 - Alejandra Moyano
 
